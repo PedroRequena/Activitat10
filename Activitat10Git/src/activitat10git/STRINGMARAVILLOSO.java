@@ -9,8 +9,8 @@ public class STRINGMARAVILLOSO{
     public static void main(String[] args){
         String M = "HOLABUENOSDIAS";
         
-        System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
- 
+        System.out.println("Aquesta és la versió més actual");
+        
            Metodes.printarPartSuperior(M);
            Metodes.printarPartInferior(M);
     }    
