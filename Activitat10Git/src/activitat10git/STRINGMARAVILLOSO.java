@@ -7,7 +7,7 @@ package activitat10git;
 public class STRINGMARAVILLOSO{
     
     public static void main(String[] args){
-        String M = "HOLABUENOSDIAS";
+        String M = "Dinosaurio";
         
         System.out.println("Aquesta és la versió més actual");
         
